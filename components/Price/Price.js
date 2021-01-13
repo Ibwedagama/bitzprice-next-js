@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-class Price extends React.Component {
+class Price extends Component {
 	state = {
 		currency: 'USD',
 	}
